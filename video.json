@@ -1,0 +1,17 @@
+{
+    "videos": [
+        {
+            "name": "Videos",
+            "list": [
+                {
+                    "name": "0305.mp4",
+                    "src": "/New%20folder/webvrVideo/assets/Videos/0305.mp4",
+                    "thumbnail": "SOURCE URL TO THUMBNAIL FILE",
+                    "screen_type": "360",
+                    "date": "DATE TIME (Python format: %Y-%m-%d %H:%M:%S)",
+                    "epoch": "1673359550.854825"
+                }
+            ]
+        }
+    ]
+}
